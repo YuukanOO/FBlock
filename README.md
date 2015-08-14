@@ -6,7 +6,7 @@ You develop an application by using Jobs and Components. A component has only on
 
 Basically, you make components and chain them using a Job. This is a simple example.
 
-```charp
+```csharp
 
 // The first component take an int as a parameter and returns a string
 class MyFirstComponent : Component<int, string>

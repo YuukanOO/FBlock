@@ -52,21 +52,11 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Core\CoreTests.cs" />
-    <Compile Include="Fixtures\TestConstants.cs" />
-    <Compile Include="IO\CSVReader.cs" />
+    <Compile Include="CoreTests.cs" />
+    <Compile Include="Fixtures\Components.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Fixtures\csv_sample.csv">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\FBlock.Components\FBlock.Components.csproj">
-      <Project>{1eb45519-c4ac-4f6a-bf9a-9a9d1cb0cf20}</Project>
-      <Name>FBlock.Components</Name>
-    </ProjectReference>
     <ProjectReference Include="..\FBlock.Core\FBlock.Core.csproj">
       <Project>{e0d77cc1-b14f-4219-81ba-6b2791d036e2}</Project>
       <Name>FBlock.Core</Name>

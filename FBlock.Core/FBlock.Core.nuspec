@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.1.0.0</version>
+    <title>FBlock.Core</title>
+    <authors>Julien Leicher</authors>
+    <owners>Julien Leicher</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
+    <projectUrl>https://github.com/YuukanOO/FBlock</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tiny library to create flow based programs using .Net</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>flow fbp</tags>
+  </metadata>
+</package>

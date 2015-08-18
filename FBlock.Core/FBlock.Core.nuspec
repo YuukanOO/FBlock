@@ -8,7 +8,7 @@
     <owners>Julien Leicher</owners>
     <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
     <projectUrl>https://github.com/YuukanOO/FBlock</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Tiny library to create flow based programs using .Net</description>
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2015</copyright>
